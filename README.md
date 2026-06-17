@@ -8,7 +8,7 @@ Most of my work sits at the intersection of **machine learning, LLM systems, and
 
 # 📌 Featured Projects
 
-Here are a few projects that best represent the kind of work I enjoy building — AI systems, full-stack products, and applied machine learning.
+Here are a few projects that best represent the kind of work I enjoy building such as AI systems, full-stack products, and applied machine learning.
 
 ---
 
