@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi👋, I'm Joshua!
 
-I’m an Advanced Computing (Honours) graduate who enjoys building AI systems that actually do something useful in the real world.
+I’m an Advanced Computing (Honours) graduate who enjoys building AI systems that solve real world problems.
 
 Most of my work sits at the intersection of **machine learning, LLM systems, and full-stack engineering**. I enjoy turning ideas into usable products and I’m especially interested in building AI tools that improve decision-making, automate workflows, and make complex systems easier to interact with.
 
@@ -8,7 +8,7 @@ Most of my work sits at the intersection of **machine learning, LLM systems, and
 
 # 📌 Featured Projects
 
-Here are a few projects that best represent the kind of work I enjoy building such as AI systems, full-stack products, and applied machine learning.
+Here are a few projects that best represent the kind of work I enjoy building.
 
 ---
 
