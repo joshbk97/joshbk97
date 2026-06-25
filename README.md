@@ -2,7 +2,7 @@
 
 I’m an Advanced Computing (Honours) graduate who enjoys building AI systems that solve real world problems.
 
-Most of my work sits at the intersection of **machine learning, LLM systems, and full-stack engineering**. I enjoy turning ideas into usable products and I’m especially interested in building AI tools that improve decision-making, automate workflows, and make complex systems easier to interact with.
+Most of my work combines **machine learning, LLM systems, and full-stack engineering**. I enjoy turning ideas into usable products and I’m especially interested in building AI tools that improve decision-making, automate workflows, and make complex systems easier to interact with.
 
 ---
 
@@ -62,7 +62,7 @@ To explore how AI systems can make complex medical predictions more interpretabl
 
 # 🤝 Open to Collaborating
 
-I’m always open to collaborating on interesting projects — especially in AI systems, LLM applications, automation, and full-stack products that solve real-world problems.
+I’m always open to collaborating on interesting projects especially in AI systems, LLM applications, automation, and full-stack products that solve real-world problems.
 
 If you’re building something cool or want to collaborate, feel free to reach out:
 
